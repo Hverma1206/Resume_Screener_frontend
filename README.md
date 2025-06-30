@@ -1,7 +1,7 @@
 
 ## Overview
 
-Shortlistr is an automated tool that streamlines the HR workflow by parsing resumes, matching them with job descriptions using AI, generating match scores with summaries, and sending result emails to candidates in one click. is an automated tool that streamlines the HR workflow by parsing resumes, matching them with job descriptions using AI, generating match scores with summaries, and sending result emails to candidates in one click.
+Shortlistr is an automated tool that streamlines the HR workflow by parsing resumes, matching them with job descriptions using AI, generating match scores with summaries, and sending result emails to candidates in one click.
 
 ## Features
 
