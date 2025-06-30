@@ -13,7 +13,7 @@ Shortlistr is an automated tool that streamlines the HR workflow by parsing resu
 
 ## Technologies Used
 
-- JavaScript
+- TypeScript
 - React.js (Frontend framework)
 - CSS/SCSS (Styling)
 - Axios (API requests)
